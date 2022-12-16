@@ -103,7 +103,7 @@ I am a student of computer science👩‍💻 who strives to be a Data Scientist
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maram-alsharif&show_icons=true&locale=en&layout=compact" alt="maram-alsharif" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=maram-alsharif&show_icons=true&locale=en&layout=compact" alt="maram-alsharif" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maram-alsharif&show_icons=true&locale=en" alt="maram-alsharif" /></p>
 
