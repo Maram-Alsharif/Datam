@@ -25,6 +25,8 @@ I am a student of computer science👩‍💻 who strives to be a Data Scientist
 <br/>  
 
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maram-alsharif" alt="maram-alsharif" /></a> </p>
+
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
