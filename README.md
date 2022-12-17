@@ -7,8 +7,8 @@
   
 
 
-<h1 style="font-size: 4rem; color: #2ecc71">
-I am a student of computer science👩‍💻 who strives to be a Data Scientist and skilled researcher through the development of personal projects and valuable work experience. 🚀  </h1>
+<h1 style="font-size: 10px; color: #2ecc71">
+I am a student of computer science👩‍💻 who strives to be a Data Scientist and skilled researcher through the development of personal projects and valuable work experience. 🚀 </h1>
   
 
 - 🔭 I’m currently working on (https://github.com/rishavanand/github-profilinator)  
