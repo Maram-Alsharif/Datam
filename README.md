@@ -87,6 +87,16 @@ I am a student of computer science👩‍💻 who strives to be a Data Scientist
 
 <br/>  
   
+  
+<br/>  
+
+# 📚 Books Recommendations
+
+[Python for Data Analysis Data Wrangling with Pandas](https://github.com/Maram-Alsharif/data-science-books/blob/main/Python%20for%20Data%20Analysis%20Data%20Wrangling%20with%20Pandas%2C%20NumPy%2C%20and%20IPython%20(Wes%20McKinney)%20(z-lib.org).pdf)  
+  
+
+<br/>  
+
 
 
 <div align="center">
