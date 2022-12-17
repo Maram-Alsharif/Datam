@@ -76,7 +76,7 @@ I am a student of computer science👩‍💻 who strives to be a Data Scientist
 
 
 ## Github Stats  
-<div align="center"><img src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maram-alsharif&theme=buefy&show_icons=true)" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=maram-alsharif&theme=buefy&show_icons=true" align="center" /></div>  
 
 <br/>  
 
