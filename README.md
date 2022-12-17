@@ -7,7 +7,7 @@
   
 
 
-<h1 style="font-size: 10px; color: #2ecc71">
+<h1 style="color:blue;text-align:center">
 I am a student of computer science👩‍💻 who strives to be a Data Scientist and skilled researcher through the development of personal projects and valuable work experience. 🚀 </h1>
   
 
