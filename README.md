@@ -91,6 +91,20 @@ I am a student of computer science👩‍💻 who strives to be a Data Scientist
 <br/>  
 
 
+<br/>  
+
+#  🎬 YouTube videos
+[Top Courses to Become a Data Analyst](https://www.youtube.com/watch?v=aqRxZSrJLEc)
+
+[How I Would Learn to be a Data Analyst](https://www.youtube.com/watch?v=CC66RXeTn_4)
+
+
+
+
+[How I Would Learn Data Science](https://www.youtube.com/watch?v=xpIFS6jZbe8)  
+  
+
+<br/>  
 
 
 
