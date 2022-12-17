@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://user-images.githubusercontent.com/107946222/208207337-8b3dae3d-339d-46e7-9858-e2c75d6d198c.gif" align="center" height="400" width="400" />
+<img src="https://user-images.githubusercontent.com/107946222/208207337-8b3dae3d-339d-46e7-9858-e2c75d6d198c.gif" align="center" height="450" width="450" />
 </div>  
   
 
@@ -7,7 +7,7 @@
   
 
 
-<h1>
+<h1 style="font-size: 4rem; color: #2ecc71">
 I am a student of computer science👩‍💻 who strives to be a Data Scientist and skilled researcher through the development of personal projects and valuable work experience. 🚀  </h1>
   
 
