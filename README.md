@@ -101,7 +101,7 @@ I am a student of computer science👩‍💻 who strives to be a Data Scientist
 <br />
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maram-alsharif&theme=bear&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maram-alsharif&theme=buefy&show_icons=true)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maram-alsharif&show_icons=true&locale=en" alt="maram-alsharif" /></p>
 
