@@ -59,7 +59,18 @@ I am a student of computer science👩‍💻 who strives to be a Data Scientist
 
 
 ## Connect with me  
-<div align="center">
+<div 
+  padding: 15px 25px;
+  font-size: 24px;
+  text-align: center;
+  cursor: pointer;
+  outline: none;
+  color: #fff;
+  background-color: #04AA6D;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #999;
+ align="center">
 <a href="https://github.com/Maram-Alsharif" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
