@@ -6,12 +6,11 @@
 # <ins><div align="center">Hi👋 this is me Maram or Datam </div></ins>  
   
 
-<div align="center">
 <h1 style="color:blue;text-align:center">
 I am a student of computer science👩‍💻 who strives to be a Data Scientist and skilled researcher through the development of personal projects and valuable work experience. 🚀 </h1>
-</div>
+
   
-<p style="color:green">🔭 I’m currently working on (https://github.com/rishavanand/github-profilinator)</p>
+-🔭 I’m currently working on (https://github.com/rishavanand/github-profilinator)
   
 
 - 🌱 I’m currently learning https://app.datacamp.com/learn/career-tracks/data-scientist-with-python?version=7  
