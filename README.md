@@ -76,7 +76,7 @@ I am a student of computer science👩‍💻 who strives to be a Data Scientist
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Maram-Alsharif&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maram-alsharif&theme=buefy&show_icons=true)" align="center" /></div>  
 
 <br/>  
 
@@ -99,10 +99,3 @@ I am a student of computer science👩‍💻 who strives to be a Data Scientist
 
 
 <br />
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maram-alsharif&theme=buefy&show_icons=true)
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maram-alsharif&show_icons=true&locale=en" alt="maram-alsharif" /></p>
-
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=maram-alsharif&" alt="maram-alsharif" /></p>
