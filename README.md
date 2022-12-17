@@ -59,18 +59,7 @@ I am a student of computer science👩‍💻 who strives to be a Data Scientist
 
 
 ## Connect with me  
-<div 
-  padding=15px;
-  font-size= 24px;
-  text-align=center;
-  cursor=pointer;
-  outline=none;
-  color=#fff;
-  background-color=#04AA6D;
-  border= none;
-  border-radius=15px;
-  box-shadow=9px;
- align="center">
+<div align="center">
 <a href="https://github.com/Maram-Alsharif" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -93,13 +82,12 @@ I am a student of computer science👩‍💻 who strives to be a Data Scientist
 
 
 ## Recent Blog Posts  
+
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31iz7ygjdmvyampgmlbr26alhyu4&cover_image=true&theme=default&show_offline=false&background_color=121212" /></div>  
 
 <br/>  
-
   
 
-<br/>  
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Maram-Alsharif&&style=flat-square" align="center" />
