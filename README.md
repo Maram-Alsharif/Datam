@@ -10,10 +10,11 @@
 I am a student of computer science👩‍💻 who strives to be a Data Scientist and skilled researcher through the development of personal projects and valuable work experience. 🚀 </h1>
 
   
--🔭 I’m currently working on (https://github.com/rishavanand/github-profilinator)
   
 
 - 🌱 I’m currently learning https://app.datacamp.com/learn/career-tracks/data-scientist-with-python?version=7  
+
+-🔭 I’m currently working on (https://github.com/rishavanand/github-profilinator)
   
 
 - 👨‍💻 All of my projects are available at https://github.com/Maram-Alsharif?tab=repositories  
