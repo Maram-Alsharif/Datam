@@ -7,7 +7,15 @@
   
 
 <h1 style="color:blue;text-align:center">
-I am a student of computer science👩‍💻 who strives to be a Data Scientist and skilled researcher through the development of personal projects and valuable work experience. 🚀 </h1>
+Maram Alsharif is a curious person who is passionate about everything related to technology.
+
+She completed her B.S. in Computer Science from Umm Alqura University with a senior research project entitled ( Community Detection in Arabic Scholarly Networks Using Ontology-based Semantic Expansion), this research has been accepted as a "Full Paper" in around 19.6% of the submissions at one of the largest international conference called IEEE/ACM on Social Networks Analysis and Mining (ASONAM 2022). 
+
+Maram has participated in many competitions during her academic years, and obtained the bronze medal in the National Olympiad for Scientific Creativity, besides a Certificate of Recognition for her Academic Excellence. 
+
+She has received training programs in Data Science from the ministry of communication and information technology, and from the Saudi Authority for Data and Artificial Intelligence (SDAIA). These experiences allowed her to work with people from different backgrounds, and enhance her skills on all counts.
+Now she is focusing her efforts on improving her skills and attempting to interact with experts to learn from their experiences and the peace of wisdom they have gained over time. in order to be  well-prepared for the master's degree.
+ </h1>
 
   
   
