@@ -21,6 +21,35 @@
 ### 😂 Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
+
+<br>  
+# 📚 Books Recommendations
+
+[Python for Data Analysis Data Wrangling with Pandas](https://github.com/Maram-Alsharif/data-science-books/blob/main/Python%20for%20Data%20Analysis%20Data%20Wrangling%20with%20Pandas%2C%20NumPy%2C%20and%20IPython%20(Wes%20McKinney)%20(z-lib.org).pdf)  
+ 
+<br/>  
+
+<br>  
+
+#  🎬 YouTube videos
+[Top Courses to Become a Data Analyst](https://www.youtube.com/watch?v=aqRxZSrJLEc)
+
+[How I Would Learn to be a Data Analyst](https://www.youtube.com/watch?v=CC66RXeTn_4)
+
+[How I Would Learn Data Science](https://www.youtube.com/watch?v=xpIFS6jZbe8)  
+ 
+<br/>  
+
+<br>  
+
+# 📚 My recent blog posts 
+
+[Python for Data Analysis Data Wrangling with Pandas](https://cliff-loaf-d92.notion.site/What-do-you-know-about-ontologies-ce8081d0c1ef44febe410b33ae9398dc)  
+
+<br/>  
+
+
+
 ---
 [![](https://visitcount.itsvg.in/api?id=Maram-Alsharif&icon=7&color=0)](https://visitcount.itsvg.in)
 
