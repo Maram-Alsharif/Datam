@@ -6,7 +6,8 @@
 </div>  
   
 <br> 
-### <div align="center">Graduate computer science student who strives to become a data scientist and skilled researcher through the development of
+<h1>Hello, this is me Maram<h1/>
+<div align="center">Student of computer science student who strives to become a data scientist and skilled researcher through the development of
 personal projects and valuable experiences 🚀</div>  
   
 <br/> 
