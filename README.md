@@ -8,8 +8,7 @@
 Hello, this is me Maram
 Student of computer science student who strives to become a data scientist and skilled researcher through the development of
 personal projects and valuable experiences 🚀
-  
-  
+<n/>
 
 </div>  
   
