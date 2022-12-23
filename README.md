@@ -1,11 +1,11 @@
+
 <div align="center">
 <img src="https://user-images.githubusercontent.com/107946222/209376765-3d1df31e-aab3-4fa5-a1d8-105903dec80c.gif" align="center" style="width:50%" />
 </div>  
+<h1>Hello, this is me Maram<h1/>
 
 # 💫 About Me:
-
 <br> 
-<h1>Hello, this is me Maram<h1/>
 <div align="left">Student of computer science student who strives to become a data scientist and skilled researcher through the development of
 personal projects and valuable experiences 🚀</div>  
   
