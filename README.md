@@ -13,10 +13,10 @@ personal projects and valuable experiences 🚀
 
 </div>  
   
-
+<div> 
 
 🔭 I’m currently working on  https://www.kaggle.com/code/maramalshariff/netflix<br>👯 I’m looking to collaborate on https://www.kaggle.com/code/maramalshariff/netflix<br>🌱 I’m currently learning https://app.datacamp.com/learn/career-tracks/data-scientist-with-python?version=7<br>👨‍💻 All of my projects are available at https://github.com/Maram-Alsharif?tab=repositories<br>📫 How to reach me MaramAlshariff@outlook.com
-
+<div/> 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/maram-alsharif-800a1b204) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Da__Maram) 
