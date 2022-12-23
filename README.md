@@ -7,10 +7,10 @@
 <div align="left">
 Hello, this is me Maram, student of computer science student who strives to become a data scientist and skilled researcher through the development of
 personal projects and valuable experiences 🚀
-<\n>
 </div>  
   
 <div> 
+
 
 🔭 I’m currently working on  https://www.kaggle.com/code/maramalshariff/netflix<br>👯 I’m looking to collaborate on https://www.kaggle.com/code/maramalshariff/netflix<br>🌱 I’m currently learning https://app.datacamp.com/learn/career-tracks/data-scientist-with-python?version=7<br>👨‍💻 All of my projects are available at https://github.com/Maram-Alsharif?tab=repositories<br>📫 How to reach me MaramAlshariff@outlook.com
 <div/> 
