@@ -2,14 +2,12 @@
 <div align="center">
 <img src="https://user-images.githubusercontent.com/107946222/209376765-3d1df31e-aab3-4fa5-a1d8-105903dec80c.gif" align="center" style="width:50%" />
 </div>  
-<h1>Hello, this is me Maram<h1/>
 
 # 💫 About Me:
-<br> 
+<h1>Hello, this is me Maram<h1/>
 <div align="left">Student of computer science student who strives to become a data scientist and skilled researcher through the development of
 personal projects and valuable experiences 🚀</div>  
   
-<br/> 
 
 
 🔭 I’m currently working on  https://www.kaggle.com/code/maramalshariff/netflix<br>👯 I’m looking to collaborate on https://www.kaggle.com/code/maramalshariff/netflix<br>🌱 I’m currently learning https://app.datacamp.com/learn/career-tracks/data-scientist-with-python?version=7<br>👨‍💻 All of my projects are available at https://github.com/Maram-Alsharif?tab=repositories<br>📫 How to reach me MaramAlshariff@outlook.com
