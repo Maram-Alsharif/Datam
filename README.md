@@ -5,11 +5,9 @@
 
 # 💫 About Me:
 <div align="left">
-Hello, this is me Maram
-Student of computer science student who strives to become a data scientist and skilled researcher through the development of
+Hello, this is me Maram, student of computer science student who strives to become a data scientist and skilled researcher through the development of
 personal projects and valuable experiences 🚀
-<n/>
-
+<\n>
 </div>  
   
 <div> 
