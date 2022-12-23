@@ -24,4 +24,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Maram-Alsharif&icon=7&color=0)](https://visitcount.itsvg.in)
 
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31iz7ygjdmvyampgmlbr26alhyu4)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
