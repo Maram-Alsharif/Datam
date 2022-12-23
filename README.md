@@ -2,7 +2,7 @@
 
 
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://user-images.githubusercontent.com/107946222/209376378-f7544605-c6c3-40de-a389-437825d15dda.gif" align="center" style="width:50%" />
 </div>  
   
 <br> 
