@@ -1,138 +1,27 @@
-<div align="center">
-<img src="https://user-images.githubusercontent.com/107946222/208265329-0a28e0d6-bd10-4893-b151-494c9a9b6062.gif" align="center" height="450" width="450" />
-</div>  
-  
-
-# <ins><div align="center">Hi👋 this is me Maram </div></ins>  
-  
-
-<h1 style="color:blue;text-align:center">
-A fresh graduate student of computer science who strives to be a data scientist and skilled researcher through the development of personal projects and valuable work experience.
- </h1>
-
-  
-  
-
-- 🌱 I’m currently learning https://app.datacamp.com/learn/career-tracks/data-scientist-with-python?version=7  
-
--  🔭 I’m currently working on (https://github.com/rishavanand/github-profilinator)
-  
-
-- 👨‍💻 All of my projects are available at https://github.com/Maram-Alsharif?tab=repositories  
-  
-
-- 📫 How to reach me MaramAlshariff@outlook.com  
-  
-
-<br/>  
+# 💫 About Me:
+🔭 I’m currently working on  https://www.kaggle.com/code/maramalshariff/netflix<br>👯 I’m looking to collaborate on https://www.kaggle.com/code/maramalshariff/netflix<br>🌱 I’m currently learning https://app.datacamp.com/learn/career-tracks/data-scientist-with-python?version=7<br>👨‍💻 All of my projects are available at https://github.com/Maram-Alsharif?tab=repositories<br>📫 How to reach me MaramAlshariff@outlook.com
 
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/maram-alsharif-800a1b204) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Da__Maram) 
 
-<div align="center">  
-<a href="https://www.r-project.org/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="75" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="75" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="75" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="75" /></a>  
-</div>
+# 💻 Tech Stack:
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat-square&logo=r&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat-square&logo=apache&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white) ![Prezi](https://img.shields.io/badge/Prezi-%23000000.svg?style=flat-square&logo=Prezi&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat-square&logo=scipy&logoColor=%white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Maram-Alsharif&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Maram-Alsharif&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Maram-Alsharif&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-</td><td valign="top" width="33%">
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Maram-Alsharif&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
-<div align="center">  
-<a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power Bi" height="75" /></a>  
-<a href="https://www.tableau.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" height="75" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="75" /></a>  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="75" /></a>  
-</div>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-</td><td valign="top" width="33%">
+### 😂 Random Dev Meme
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
-<div align="center">  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="75" /></a>  
-<a href="https://www.oracle.com/in/index.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/oracle-original.svg" alt="Oracle" height="75" /></a>  
-</div>
+---
+[![](https://visitcount.itsvg.in/api?id=Maram-Alsharif&icon=7&color=0)](https://visitcount.itsvg.in)
 
-</td></tr></table>  
-
-<br/>  
-
-
-## Connect with me  
-<div align="center">
-<a href="https://github.com/Maram-Alsharif" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/Da__Maram" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/maram-alsharif" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=maram-alsharif&theme=buefy&show_icons=true" align="center" /></div>  
-
-<br/>  
-
-
-<br/>  
-
-# 📚 Books Recommendations
-
-[Python for Data Analysis Data Wrangling with Pandas](https://github.com/Maram-Alsharif/data-science-books/blob/main/Python%20for%20Data%20Analysis%20Data%20Wrangling%20with%20Pandas%2C%20NumPy%2C%20and%20IPython%20(Wes%20McKinney)%20(z-lib.org).pdf)  
-  
-
-<br/>  
-
-
-<br/>  
-
-#  🎬 YouTube videos
-[Top Courses to Become a Data Analyst](https://www.youtube.com/watch?v=aqRxZSrJLEc)
-
-[How I Would Learn to be a Data Analyst](https://www.youtube.com/watch?v=CC66RXeTn_4)
-
-
-
-
-[How I Would Learn Data Science](https://www.youtube.com/watch?v=xpIFS6jZbe8)  
-  
-
-<br/>  
-
-<br/>  
-
-# 📚 My recent blog posts 
-
-[Python for Data Analysis Data Wrangling with Pandas](https://github.com/Maram-Alsharif/data-science-books/blob/main/Python%20for%20Data%20Analysis%20Data%20Wrangling%20with%20Pandas%2C%20NumPy%2C%20and%20IPython%20(Wes%20McKinney)%20(z-lib.org).pdf)  
-  
-
-<br/>  
-
-
-
-
-#📝 Recent Blog Posts  
-
-<div align="center"><img src="https://cliff-loaf-d92.notion.site/What-do-you-know-about-ontologies-ce8081d0c1ef44febe410b33ae9398dc?uid=31iz7ygjdmvyampgmlbr26alhyu4&cover_image=true&theme=default&show_offline=false&background_color=ffffff&bar_color=f2c4d7" /></div>  
-
-<br/>  
-  
-  
-
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=Maram-Alsharif&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-
-<br />
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
