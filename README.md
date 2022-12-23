@@ -21,7 +21,7 @@
 ### 😂 Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
-
+<br/> 
 <br>  
 # 📚 Books Recommendations
 
@@ -42,9 +42,9 @@
 
 <br>  
 
-# 📚 My recent blog posts 
+# 📝 My recent blog posts 
 
-[Python for Data Analysis Data Wrangling with Pandas](https://cliff-loaf-d92.notion.site/What-do-you-know-about-ontologies-ce8081d0c1ef44febe410b33ae9398dc)  
+[What do you know about ontologies?](https://cliff-loaf-d92.notion.site/What-do-you-know-about-ontologies-ce8081d0c1ef44febe410b33ae9398dc)  
 
 <br/>  
 
