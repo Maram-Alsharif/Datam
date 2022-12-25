@@ -39,6 +39,7 @@ personal projects and valuable experiences 🚀
 
 [Python for Data Analysis Data Wrangling with Pandas](https://github.com/Maram-Alsharif/data-science-books/blob/main/Python%20for%20Data%20Analysis%20Data%20Wrangling%20with%20Pandas%2C%20NumPy%2C%20and%20IPython%20(Wes%20McKinney)%20(z-lib.org).pdf)  
  
+[Storytelling With Data]([https://github.com/Maram-Alsharif/data-science-books/blob/main/Python%20for%20Data%20Analysis%20Data%20Wrangling%20with%20Pandas%2C%20NumPy%2C%20and%20IPython%20(Wes%20McKinney)%20(z-lib.org).pdf](https://www.amazon.sa/-/en/Storytelling-Data-Visualization-BUSiness-Professionals/dp/1119002257/ref=asc_df_1119002257/?tag=sashogostdde-21&linkCode=df0&hvadid=475498811218&hvpos=&hvnetw=g&hvrand=3083056677056491207&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1028879&hvtargid=pla-404294414086&psc=1))  
  
 <br/>  
 
