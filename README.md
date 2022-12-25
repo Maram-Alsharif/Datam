@@ -1,6 +1,6 @@
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/107946222/209376765-3d1df31e-aab3-4fa5-a1d8-105903dec80c.gif" align="center" style="width:80%" />
+<img src="https://user-images.githubusercontent.com/107946222/209376765-3d1df31e-aab3-4fa5-a1d8-105903dec80c.gif" align="center" style="width:60%" />
 </div>  
 
 # 💫 About Me:
