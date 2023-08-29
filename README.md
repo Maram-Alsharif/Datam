@@ -64,9 +64,6 @@ personal projects and valuable experiences 🚀
 
 
 
----
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31iz7ygjdmvyampgmlbr26alhyu4&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=605eb0)](https://github.com/kittinan/spotify-github-profile)
   
  [![](https://visitcount.itsvg.in/api?id=Maram-Alsharif&icon=7&color=0)](https://visitcount.itsvg.in)
 
